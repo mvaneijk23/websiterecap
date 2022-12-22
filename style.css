@@ -1,0 +1,396 @@
+body{
+    overflow-x: hidden;
+}
+
+.Header{
+    height: 80px;
+    width: 1350px;
+    background-color: white;
+}
+
+.Logo{
+    padding-left: 120px;
+    padding-top: 10px;
+}
+
+.LogoRecap{
+    width: 174px;
+    height: 38px;
+}
+
+.achtergrond{
+    background-color: #f8f8f8;
+    height: 200px;
+    width: 1350px;
+}
+
+.box1{
+    width: 1350px;
+    height: 65px;
+    padding: 5%;
+}
+
+.box1 h1{
+    width: 1350px;
+    font-family: Helvetica;
+    font-size: 55px;
+    color: white;
+    margin-bottom: -3%;
+    padding-left: 65px;
+}
+
+.box1 h2{
+    width: 1350px;
+    font-family: Helvetica;
+    font-size: 45px;
+    color: white;
+    padding-left: 65px;
+}
+
+.imagebox{
+    padding-left: 670px;
+    margin-top: -250px;
+    height: 200px;
+    width: 531px;
+}
+
+.telefoon{
+    max-height: 650px;
+    float: right;
+    transform: matrix(0.99, 0.14, -0.05, 0.99, 0, 0);
+}
+
+.imagebox1{
+    margin-top: -220px;
+    margin-left: -130px;
+    height: 500px;
+    width: 1370px;
+    background-image: url(Images/Optie2.jpg);
+}
+
+.tekstbox1{
+    height: 300px;
+    width: 1350px;
+}
+
+.box2{
+    margin: 340px 0px 0px 0px;
+    width: 1350px;
+    height: 80px;
+    padding-left: 130px;
+}
+
+h3{
+    width: 1350px;
+    font-family: Helvetica;
+    font-size: 45px;
+    color: #64B5A2;
+    margin-bottom: -2%;
+}
+
+p{
+    width: 1350px;
+    font-family: Helvetica;
+    font-size: 25px;
+    color: black;
+}
+
+nav ul{
+    float: right;
+    margin-right: 100px;
+}
+
+nav ul li{
+    display: inline-block;
+    line-height:30px;
+    margin: 0 15px;
+    font-family: Helvetica;
+    color: black;
+}
+
+li  a:hover{
+    background-color: white;
+    color: #EFA647;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.box3{
+    margin: -410px 0px 0px 550px;
+    height: 200px;
+    width: 500px;
+}
+
+h4{
+    width: 100%;
+    font-family: Helvetica;
+    font-size: 45px;
+    color: #64B5A2;
+    margin-bottom: 0%;
+}
+
+.Alinea{
+    width: 100%;
+    font-family: Helvetica;
+    font-size: 14px;
+    color: black;
+}
+
+.box4{
+    margin: 0px 0px 0px 0px;
+    height: 200px;
+    width: 500px;
+}
+
+h5{
+    width: 100%;
+    font-family: Helvetica;
+    font-size: 45px;
+    color: #64B5A2;
+    margin-bottom: 0%;
+}
+
+.cluster{
+    height: 600px;
+    width: 100%;
+}
+
+.clusterbox{
+    height: 600px;
+    width: 400px;
+    margin: 200px 0px 0px 130px;
+}
+
+.cluster1{
+    height: 600px;
+    width: 100%;
+}
+
+.clusterbox1{
+    height: 600px;
+    width: 100%;
+    margin: -150px 0px 0px 130px;
+}
+
+.cluster2{
+    float:right;
+    margin-right: 250px;
+}
+
+.banner2{
+    height: 500px;
+    width: 1350px;
+}
+
+.imagebox2{
+    height: 500px;
+    width: 1350px;
+    margin-top: -50%;
+    margin-left: -2%;
+    background-image: url(Images/Optie5.png);
+}
+
+.wittetekst{
+    height: 450px;
+    width: 600px;
+    margin: 0px 0px 0px 600px
+}
+
+h6{
+    width: 100%;
+    font-family: Helvetica;
+    font-size: 35px;
+    color: white;
+    text-shadow: -3px 3px black;
+}
+
+.backgroundcolor{
+    background-color: #f8f8f8;
+}
+
+.card{
+    height: 100px;
+    width: 1350px;
+}
+
+.pas{
+    padding-left: 120px;
+    padding-top: 200px;
+    height: 400px;
+    width: 500px;
+}
+
+.aboutus{
+    height: 300px;
+    width: 100%;
+}
+
+.aboutusbox{
+    margin: 200px 0px 0px 550px;
+    width: 500px;
+    height: 80px;
+    padding-left: 130px;
+}
+
+.aboutustext{
+    width: 100%;
+    font-family: Helvetica;
+    font-size: 14px;
+    color: black;
+}
+
+.videobox{
+    padding-left: 135px;
+    float: left;
+    width: 450px;
+    height: 250px;
+}
+
+.footer{
+    margin-left: -10px;
+    width: 1350px;
+    height: 100px;
+    background-color: #333333;
+}
+
+.footerbox{
+    width: 600px;
+    height: 50px;
+    margin-top: 100px;
+    padding: 30px 0px 0px 500px;
+}
+
+.footertext{
+    width: 100%;
+    font-family: Helvetica;
+    font-size: 14px;
+    color: white;
+}
+
+.aboutusbanner{
+    width: 1350px;
+    height: 500px;
+    background-image: url(Images/Optie2.jpg);
+    margin-left: -10px;
+    margin-top: -18px;
+}
+
+.aboutusbannertext{
+    height: 300px;
+    width: 1350px;
+}
+
+.aboutustext1{
+    margin-top: -290px;
+    padding-left: 650px;
+    width: 500px;
+    height: 300px;
+}
+
+.textvlak1{
+    width: 100%;
+    font-family: Helvetica;
+    font-size: 45px;
+    color: white;
+    margin-bottom: 0%;
+}
+
+.textvlak2{
+    width: 100%;
+    font-family: Helvetica;
+    font-size: 14px;
+    color: white;
+}
+
+.videobox1{
+    padding: 120px 0px 0px 140px;
+    width: 450px;
+    height: 250px;
+}
+
+.textbox4{
+    margin-top: -320px;
+}
+
+.team{
+    width: 1350px;
+    height: 500px;
+    background-image: url(Images/recap_team.png);
+}
+
+.facts{
+    width: 1350px;
+    height: 400px;
+}
+
+.videobox2{
+    width: 500px;
+    height: 300px;
+    padding: 50px 0px 0px 130px;
+}
+
+.textvlak3{
+    padding-top: 10px;
+    width: 600px;
+    font-family: Helvetica;
+    font-size: 14px;
+    color: black;
+}
+
+.box5{
+    margin: 350px 0px 0px 0px;
+    width: 100%;
+    height: 320px;
+    padding-left: 130px;
+}
+
+.appbanner{
+    width: 1350px;
+    height: 500px;
+    background-image: url(Images/app_banner.jpg);
+    margin-left: -10px;
+    margin-top: -18px;
+}
+
+form#login-form {
+    max-width: 400px;
+    margin-left: 110px;
+    border-radius: 5px;
+    padding-left: 20px;
+    padding-top: 150px;
+  }
+  
+  form#login-form label {
+    font-family: Helvetica;
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  form#login-form input {
+    font-family: Helvetica;
+    width: 80%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  form#login-form button[type="submit"] {
+    display: block;
+    margin-top: 10px;
+    padding: 8px;
+    background-color: #64B5A2;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+  }
+
+  .login{
+    margin-top: -20px;
+    margin-left: -8px;
+    width: 1350px;
+    height: 500px;
+    background-image: url(Images/login_image.jpg);
+  }
